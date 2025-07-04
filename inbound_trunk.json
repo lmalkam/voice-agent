@@ -1,0 +1,11 @@
+{
+    "trunk": {
+        "name": "Inbound LiveKit Trunk",
+        "numbers": [
+            "+18787686085"
+        ],
+        "allowed_numbers": [
+            "+18787686085"
+        ]
+    }
+}

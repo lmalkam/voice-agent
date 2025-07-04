@@ -1,0 +1,9 @@
+{
+    "trunk":{
+        "name": "My trunk",
+        "address": "sip.telnyx.com",
+        "numbers" : "+18787686085",
+        "auth_username" : "linesh",
+        "auth_password" : "linesh"
+    }
+}
